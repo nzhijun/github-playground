@@ -5,13 +5,13 @@
 ## 练习清单
 - [x] 创建仓库
 - [x] 编辑 README
-- [ ] 创建 Issue
-- [ ] 新建分支
-- [ ] 提交 commit
-- [ ] 发起 Pull Request
-- [ ] 合并 PR
-- [ ] 配置 GitHub Actions
-- [ ] 开启 GitHub Pages
+- [x] 创建 Issue
+- [x] 新建分支
+- [x] 提交 commit
+- [x] 发起 Pull Request
+- [x] 合并 PR
+- [x] 配置 GitHub Actions
+- [x] 开启 GitHub Pages
 - [ ] 创建 Release
 - [ ] 使用 Projects 看板
 - [ ] 开启 Wiki
