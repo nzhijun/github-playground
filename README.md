@@ -12,7 +12,7 @@
 - [x] 合并 PR
 - [x] 配置 GitHub Actions
 - [x] 开启 GitHub Pages
-- [ ] 创建 Release
-- [ ] 使用 Projects 看板
-- [ ] 开启 Wiki
-- [ ] Fork 一个公共仓库并提交修改
+- [x] 创建 Release
+- [x] 使用 Projects 看板
+- [x] 开启 Wiki
+- [x] Fork 一个公共仓库并提交修改
